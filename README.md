@@ -1,9 +1,9 @@
 # go-logger
 Simply colorful console logger for Go
 
-## Intriduction
+## Introduction
 
-This package implements a simple logging API for Golang. The main idea of this project is to minimise the amount of code 
+This package implements simple logging API for Golang. The main idea of this project is to minimise the amount of code 
 you need to write to log something. You receive pretty colorful log messages wherever you want without any terrible settings and function calls
 
 ## Look and feel
