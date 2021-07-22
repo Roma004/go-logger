@@ -1,4 +1,4 @@
-module logger
+module go-logger
 
 go 1.16
 
