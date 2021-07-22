@@ -1,4 +1,4 @@
-module go-logger
+module github.com/Roma004/go-logger
 
 go 1.16
 
