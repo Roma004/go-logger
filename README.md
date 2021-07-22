@@ -55,8 +55,6 @@ func main() {
 	log.Info("End of func main")
 }
 ```
-result:
-
 ![example](examples/example1.png)
 
 
@@ -80,7 +78,6 @@ func main() {
 	log.LargeDebug("some very large debug info here")
 }
 ```
-result:
 ![example output](examples/example.png)
 
 ## Installation
